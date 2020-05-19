@@ -59,6 +59,11 @@
     - MCT3744F3
     - MCT3744RN
     - MCT3744S
+    - MCT3685
+    - MCT3685RN
+    - MCT3685F3
+    - MCT3685F3RN
+    - MCT3685S
     - SER0496
     - SER0496RN
     - SER0496F3
@@ -74,6 +79,7 @@
     - SER0569F3
     - SER0569F3RN
     - SER0569S
+    - SER0574
 
 - name: cost_management
   skus:
