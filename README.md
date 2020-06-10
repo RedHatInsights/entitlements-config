@@ -18,11 +18,12 @@ service/feature/offering.
 
 Entitlements may be defined by:
 
-1. requiring one or more SKUs exist on the account making the request
+1. requiring one or more SKUs exist on the account making the request (and whether the SKU is a trial SKU or not).
 ```yaml
 - name: name_of_entitlement
   skus:
-    - MCT3691
+    MCT3691:
+      is_trial: true|false
 ```
 
 2. requiring the account number exists on the request
