@@ -129,37 +129,37 @@
     MCT3685S:
         is_trial: false
     SER0496:
-        is_trial: false
+        is_trial: true
     SER0496RN:
-        is_trial: false
+        is_trial: true
     SER0496F3:
-        is_trial: false
+        is_trial: true
     SER0496F3RN:
-        is_trial: false
+        is_trial: true
     SER0496S:
-        is_trial: false
+        is_trial: true
     SER0497:
-        is_trial: false
+        is_trial: true
     SER0497RN:
-        is_trial: false
+        is_trial: true
     SER0497F3:
-        is_trial: false
+        is_trial: true
     SER0497F3RN:
-        is_trial: false
+        is_trial: true
     SER0497S:
-        is_trial: false
+        is_trial: true
     SER0569:
-        is_trial: false
+        is_trial: true
     SER0569RN:
-        is_trial: false
+        is_trial: true
     SER0569F3:
-        is_trial: false
+        is_trial: true
     SER0569F3RN:
-        is_trial: false
+        is_trial: true
     SER0569S:
-        is_trial: false
+        is_trial: true
     SER0574:
-        is_trial: false
+        is_trial: true
 
 - name: cost_management
   skus:
