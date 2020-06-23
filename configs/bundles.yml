@@ -161,6 +161,11 @@
     SER0574:
         is_trial: true
 
+- name: acm
+  skus:
+    SER0599:
+      is_trial: true
+
 - name: cost_management
   skus:
     MW00454:
