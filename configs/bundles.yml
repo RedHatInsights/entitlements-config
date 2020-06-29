@@ -245,6 +245,38 @@
         is_trial: false
     MCT2863:
         is_trial: false
+    MW00530:
+        is_trial: false
+    MW00531:
+        is_trial: false
+    MW00532:
+        is_trial: false
+    MW00533:
+        is_trial: false
+    MW00534:
+        is_trial: false
+    MW00535:
+        is_trial: false
+    MW00536:
+        is_trial: false
+    MW00537:
+        is_trial: false
+    MW00538:
+        is_trial: false
+    MW00539:
+        is_trial: false
+    MW00540:
+        is_trial: false
+    MW00541:
+        is_trial: false
+    MW00542:
+        is_trial: false
+    MW00543:
+        is_trial: false
+    MW00544:
+        is_trial: false
+    MW00545:
+        is_trial: false
 
 - name: insights
   use_valid_acc_num: true
