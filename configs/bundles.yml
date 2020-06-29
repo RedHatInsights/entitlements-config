@@ -290,6 +290,9 @@
 - name: settings
   use_valid_acc_num: true
 
+- name: user_preferences
+  use_valid_acc_num: true
+
 - name: openshift
   use_valid_acc_num: false
 
