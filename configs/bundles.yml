@@ -243,7 +243,11 @@
         is_trial: false
     MCT2862:
         is_trial: false
+    MCT2862S:
+        is_trial: false
     MCT2863:
+        is_trial: false
+    MCT2863S:
         is_trial: false
     MW00530:
         is_trial: false
