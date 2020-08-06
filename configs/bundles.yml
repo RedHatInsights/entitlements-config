@@ -187,6 +187,6 @@
     SVC3124:
         is_trial: false
     RH00066:
-        is_trial: false
+        is_trial: true
     RH00065:
-        is_trial: false
+        is_trial: true
