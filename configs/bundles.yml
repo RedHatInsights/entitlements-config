@@ -1,5 +1,57 @@
 - name: ansible
   skus:
+    ESA0016:
+        is_trial: false
+    MCT3319:
+        is_trial: false
+    MCT3319F3:
+        is_trial: false
+    MCT3319RN:
+        is_trial: false
+    MCT3319S:
+        is_trial: false
+    MCT3320:
+        is_trial: false
+    MCT3320F3:
+        is_trial: false
+    MCT3320RN:
+        is_trial: false
+    MCT3320S:
+        is_trial: false
+    MCT3321:
+        is_trial: false
+    MCT3321F3:
+        is_trial: false
+    MCT3321RN:
+        is_trial: false
+    MCT3321S:
+        is_trial: false
+    MCT3487:
+        is_trial: false
+    MCT3487F3:
+        is_trial: false
+    MCT3487RN:
+        is_trial: false
+    MCT3487S:
+        is_trial: false
+    MCT3488:
+        is_trial: false
+    MCT3488F3:
+        is_trial: false
+    MCT3488RN:
+        is_trial: false
+    MCT3488S:
+        is_trial: false
+    MCT3685:
+        is_trial: false
+    MCT3685RN:
+        is_trial: false
+    MCT3685F3:
+        is_trial: false
+    MCT3685F3RN:
+        is_trial: false
+    MCT3685S:
+        is_trial: false
     MCT3691:
         is_trial: false
     MCT3691RN:
@@ -60,6 +112,16 @@
         is_trial: false
     MCT3696S:
         is_trial: false
+    MCT3698:
+        is_trial: false
+    MCT3698RN:
+        is_trial: false
+    MCT3698F3:
+        is_trial: false
+    MCT3698F3RN:
+        is_trial: false
+    MCT3698S:
+        is_trial: false
     MCT3733:
         is_trial: false
     MCT3733RN:
@@ -70,29 +132,25 @@
         is_trial: false
     MCT3733S:
         is_trial: false
-    MCT3319:
+    MCT3734:
         is_trial: false
-    MCT3319F3:
+    MCT3734RN:
         is_trial: false
-    MCT3319RN:
+    MCT3734F3:
         is_trial: false
-    MCT3319S:
+    MCT3734F3RN:
         is_trial: false
-    MCT3320:
+    MCT3734S:
         is_trial: false
-    MCT3320F3:
+    MCT3735:
         is_trial: false
-    MCT3320RN:
+    MCT3735RN:
         is_trial: false
-    MCT3320S:
+    MCT3735F3:
         is_trial: false
-    MCT3321:
+    MCT3735F3RN:
         is_trial: false
-    MCT3321F3:
-        is_trial: false
-    MCT3321RN:
-        is_trial: false
-    MCT3321S:
+    MCT3735S:
         is_trial: false
     MCT3742:
         is_trial: false
@@ -118,45 +176,243 @@
         is_trial: false
     MCT3744S:
         is_trial: false
-    MCT3685:
+    MCT3809:
         is_trial: false
-    MCT3685RN:
+    MCT3809RN:
         is_trial: false
-    MCT3685F3:
+    MCT3809F3:
         is_trial: false
-    MCT3685F3RN:
+    MCT3809F3RN:
         is_trial: false
-    MCT3685S:
+    MCT3809S:
+        is_trial: false
+    MCT3810:
+        is_trial: false
+    MCT3810RN:
+        is_trial: false
+    MCT3810F3:
+        is_trial: false
+    MCT3810F3RN:
+        is_trial: false
+    MCT3810S:
+        is_trial: false
+    MCT3811:
+        is_trial: false
+    MCT3811RN:
+        is_trial: false
+    MCT3811F3:
+        is_trial: false
+    MCT3811F3RN:
+        is_trial: false
+    MCT3811S:
+        is_trial: false
+    MCT3812:
+        is_trial: false
+    MCT3812RN:
+        is_trial: false
+    MCT3812F3:
+        is_trial: false
+    MCT3812F3RN:
+        is_trial: false
+    MCT3812S:
+        is_trial: false
+    MCT3813:
+        is_trial: false
+    MCT3813RN:
+        is_trial: false
+    MCT3813F3:
+        is_trial: false
+    MCT3813F3RN:
+        is_trial: false
+    MCT3813S:
+        is_trial: false
+    MCT3814:
+        is_trial: false
+    MCT3814RN:
+        is_trial: false
+    MCT3814F3:
+        is_trial: false
+    MCT3814F3RN:
+        is_trial: false
+    MCT3815S:
+        is_trial: false
+    MCT3815:
+        is_trial: false
+    MCT3815RN:
+        is_trial: false
+    MCT3815F3:
+        is_trial: false
+    MCT3815F3RN:
+        is_trial: false
+    MCT3815S:
+        is_trial: false
+    MCT3816:
+        is_trial: false
+    MCT3816RN:
+        is_trial: false
+    MCT3816F3:
+        is_trial: false
+    MCT3816F3RN:
+        is_trial: false
+    MCT3816S:
+        is_trial: false
+    MCT3817:
+        is_trial: false
+    MCT3817RN:
+        is_trial: false
+    MCT3817F3:
+        is_trial: false
+    MCT3817F3RN:
+        is_trial: false
+    MCT3817S:
+        is_trial: false
+    MCT3865:
+        is_trial: false
+    MCT3865RN:
+        is_trial: false
+    MCT3865F3:
+        is_trial: false
+    MCT3865F3RN:
+        is_trial: false
+    MCT3865S:
+        is_trial: false
+    MCT3866:
+        is_trial: false
+    MCT3866RN:
+        is_trial: false
+    MCT3866F3:
+        is_trial: false
+    MCT3866F3RN:
+        is_trial: false
+    MCT3866S:
+        is_trial: false
+    MCT3873:
+        is_trial: false
+    MCT3873RN:
+        is_trial: false
+    MCT3873F3:
+        is_trial: false
+    MCT3873F3RN:
+        is_trial: false
+    MCT3873S:
+        is_trial: false
+    MCT3874:
+        is_trial: false
+    MCT3874RN:
+        is_trial: false
+    MCT3874F3:
+        is_trial: false
+    MCT3874F3RN:
+        is_trial: false
+    MCT3874S:
+        is_trial: false
+    MCT3875:
+        is_trial: false
+    MCT3875RN:
+        is_trial: false
+    MCT3875F3:
+        is_trial: false
+    MCT3875F3RN:
+        is_trial: false
+    MCT3875S:
+        is_trial: false
+    MCT3876:
+        is_trial: false
+    MCT3876RN:
+        is_trial: false
+    MCT3876F3:
+        is_trial: false
+    MCT3876F3RN:
+        is_trial: false
+    MCT3876S:
+        is_trial: false
+    MCT3877:
+        is_trial: false
+    MCT3877RN:
+        is_trial: false
+    MCT3877F3:
+        is_trial: false
+    MCT3877F3RN:
+        is_trial: false
+    MCT3877S:
+        is_trial: false
+    MCT3878:
+        is_trial: false
+    MCT3878RN:
+        is_trial: false
+    MCT3878F3:
+        is_trial: false
+    MCT3878F3RN:
+        is_trial: false
+    MCT3878S:
+        is_trial: false
+    MCT3906:
+        is_trial: false
+    MCT3906RN:
+        is_trial: false
+    MCT3906F3:
+        is_trial: false
+    MCT3906F3RN:
+        is_trial: false
+    MCT3906S:
+        is_trial: false
+    MCT3907:
+        is_trial: false
+    MCT3907RN:
+        is_trial: false
+    MCT3907F3:
+        is_trial: false
+    MCT3907F3RN:
+        is_trial: false
+    MCT3907S:
+        is_trial: false
+    MCT3908:
+        is_trial: false
+    MCT3908RN:
+        is_trial: false
+    MCT3908F3:
+        is_trial: false
+    MCT3908F3RN:
+        is_trial: false
+    MCT3908S:
+        is_trial: false
+    MCT3909:
+        is_trial: false
+    MCT3909RN:
+        is_trial: false
+    MCT3909F3:
+        is_trial: false
+    MCT3909F3RN:
+        is_trial: false
+    MCT3909S:
+        is_trial: false
+    MCT3910:
+        is_trial: false
+    MCT3910RN:
+        is_trial: false
+    MCT3910F3:
+        is_trial: false
+    MCT3910F3RN:
+        is_trial: false
+    MCT3910S:
+        is_trial: false
+    MCT3911:
+        is_trial: false
+    MCT3911RN:
+        is_trial: false
+    MCT3911F3:
+        is_trial: false
+    MCT3911F3RN:
+        is_trial: false
+    MCT3911S:
         is_trial: false
     SER0496:
         is_trial: true
-    SER0496RN:
-        is_trial: true
-    SER0496F3:
-        is_trial: true
-    SER0496F3RN:
-        is_trial: true
-    SER0496S:
-        is_trial: true
     SER0497:
-        is_trial: true
-    SER0497RN:
-        is_trial: true
-    SER0497F3:
-        is_trial: true
-    SER0497F3RN:
-        is_trial: true
-    SER0497S:
         is_trial: true
     SER0569:
         is_trial: true
-    SER0569RN:
-        is_trial: true
-    SER0569F3:
-        is_trial: true
-    SER0569F3RN:
-        is_trial: true
-    SER0569S:
+    SER0570:
         is_trial: true
     SER0574:
         is_trial: true
