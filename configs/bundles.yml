@@ -1,5 +1,7 @@
 - name: ansible
   skus:
+    RH00798:
+        is_trial: false
     ESA0016:
         is_trial: false
     MCT3319:
