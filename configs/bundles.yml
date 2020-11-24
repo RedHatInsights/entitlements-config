@@ -448,3 +448,6 @@
         is_trial: true
     RH00065:
         is_trial: true
+
+- name: internal
+  use_is_internal: true
