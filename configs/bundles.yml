@@ -246,8 +246,6 @@
         is_trial: false
     MCT3815F3RN:
         is_trial: false
-    MCT3815S:
-        is_trial: false
     MCT3816:
         is_trial: false
     MCT3816RN:
@@ -453,3 +451,6 @@
 
 - name: internal
   use_is_internal: true
+  
+- name: rhel
+  use_valid_acc_num: true
