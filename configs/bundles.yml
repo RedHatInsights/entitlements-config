@@ -451,3 +451,6 @@
 
 - name: internal
   use_is_internal: true
+  
+- name: rhel
+  use_valid_acc_num: true
