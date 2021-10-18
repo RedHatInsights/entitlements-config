@@ -458,6 +458,8 @@ objects:
               is_trial: true
           RH00798:
               is_trial: false
+          RH00103:
+              is_trial: false
 
       - name: internal
         use_is_internal: true
