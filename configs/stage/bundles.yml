@@ -464,6 +464,11 @@ objects:
         
       - name: rhel
         use_valid_acc_num: true
+
+      - name: rhods
+        skus:
+          MCT4217MO:
+            is_trial: false
   kind: ConfigMap
   metadata:
     creationTimestamp: null
