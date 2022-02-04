@@ -463,3 +463,16 @@
   skus:
     MCT4217MO:
       is_trial: false
+
+- name: rhoam
+  skus:
+    MW01459:
+      is_trial: false
+    MW01460:
+      is_trial: false
+    MW0461:
+      is_trial: false
+    MW01462:
+      is_trial: false
+    MW01737:
+      is_trial: false
