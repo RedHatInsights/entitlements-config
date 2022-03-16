@@ -408,7 +408,21 @@
         is_trial: false
     MCT3948:
         is_trial: false
+    MW01459:
+        is_trial: false
+    MW01460:
+        is_trial: false
+    MW01461:
+        is_trial: false
+    MW01462:
+        is_trial: false
+    MW01737:
+        is_trial: false
     MW01882:
+        is_trial: false
+    MW01891:
+        is_trial: false
+    MW01892MO:
         is_trial: false
     SER0496:
         is_trial: true
