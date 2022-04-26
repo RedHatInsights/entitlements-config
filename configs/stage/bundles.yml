@@ -261,12 +261,17 @@ objects:
           - MW01461
           - MW01462
           - MW01737
-      
+
       - name: rhosak
         skus:
           - MW01882
           - MW01891
           - MW01892MO
+
+      - name: edge
+        skus:
+          - MCT3718
+
   kind: ConfigMap
   metadata:
     creationTimestamp: null
