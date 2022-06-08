@@ -217,25 +217,25 @@ objects:
           - SER0574
 
       - name: cost_management
-        use_valid_acc_num: true
+        use_valid_org_id: true
 
       - name: insights
-        use_valid_acc_num: true
+        use_valid_org_id: true
 
       - name: migrations
-        use_valid_acc_num: true
+        use_valid_org_id: true
 
       - name: subscriptions
-        use_valid_acc_num: true
+        use_valid_org_id: true
 
       - name: settings
-        use_valid_acc_num: true
+        use_valid_org_id: true
 
       - name: user_preferences
-        use_valid_acc_num: true
+        use_valid_org_id: true
 
       - name: openshift
-        use_valid_acc_num: false
+        use_valid_org_id: false
 
       - name: smart_management
         skus:
@@ -248,7 +248,7 @@ objects:
         use_is_internal: true
 
       - name: rhel
-        use_valid_acc_num: true
+        use_valid_org_id: true
 
       - name: rhods
         skus:
@@ -261,7 +261,7 @@ objects:
           - MW01461
           - MW01462
           - MW01737
-      
+
       - name: rhosak
         skus:
           - MW01882
