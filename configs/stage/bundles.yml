@@ -301,7 +301,7 @@ objects:
           - MW01738MO
           - MW01845MO
           - MW01846
-          
+
       - name: rhosak
         skus:
           - MW01882
@@ -313,7 +313,7 @@ objects:
           - MW01896MO
           - MW01893
           - MW01895MO
-
+ 
       - name: openshift 
         skus:
           - MW00454
@@ -7781,7 +7781,7 @@ objects:
           - MCT3841F3
           - MCT3841F5
           - SVC3841
-	  
+
   kind: ConfigMap
   metadata:
     creationTimestamp: null
