@@ -232,7 +232,6 @@ objects:
           - MCT3696F3
           - MCT4164F3
           - MCT4165F3
- 
       - name: cost_management
         use_valid_org_id: true
 
