@@ -216,6 +216,22 @@ objects:
           - SER0569
           - SER0570
           - SER0574
+          - MCT3691
+          - MCT3692
+          - MCT3693
+          - MCT3694
+          - MCT3695
+          - MCT3696
+          - MCT4164
+          - MCT4165
+          - MCT3691F3
+          - MCT3692F3
+          - MCT3693F3
+          - MCT3694F3
+          - MCT3695F3
+          - MCT3696F3
+          - MCT4164F3
+          - MCT4165F3
 
       - name: cost_management
         use_valid_org_id: true
