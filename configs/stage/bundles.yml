@@ -659,6 +659,24 @@ objects:
       - name: rhel
         use_valid_org_id: true
 
+      - name: acs
+        skus:
+          - MW02162
+          - MW02159
+          - MW02164HR
+          - MW02161HR
+          - MW02163MO
+          - MW02160MO
+          - MW02165
+          - MW02166
+          - MW02165MO
+          - MW02166MO
+          - MW02167
+          - MW02167HR
+          - MW02167MO
+          - MW02291
+          - SER0774
+
   kind: ConfigMap
   metadata:
     creationTimestamp: null
