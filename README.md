@@ -40,6 +40,6 @@ Entitlements may be defined by:
 
 ### Deployment
 
-When your PR is merged, an automated job will pick up the changes. This runs once
-per day. If you need the changes available faster, please reach out to the platform
-infrastructure team to coordinate changes being promoted through the environments.
+When your PR is merged, you will need to update the sha reference of the `entitlements-bundle-config-<env>` deployment in app interface to the latest commit after merge.
+Once that is done, entitlements will bounce in the corresponding environment(s) and the config changes should be reflected.
+Contact the Access & Management team (@crc-accessmanagement-team) for any assistance.
