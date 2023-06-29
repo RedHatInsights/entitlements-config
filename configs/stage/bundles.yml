@@ -233,6 +233,7 @@ objects:
           - MCT4164F3
           - MCT4165F3
           - MW02049
+          - RC1257407
 
       - name: cost_management
         use_valid_org_id: true
