@@ -677,6 +677,7 @@ objects:
           - MW02167MO
           - MW02291
           - SER0774
+          - SER0795
 
   kind: ConfigMap
   metadata:
