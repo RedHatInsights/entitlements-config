@@ -306,6 +306,7 @@ objects:
           - MW02291
           - SER0774
           - SER0795
+          - SER0798
   kind: ConfigMap
   metadata:
     creationTimestamp: null
