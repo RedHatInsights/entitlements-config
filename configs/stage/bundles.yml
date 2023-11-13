@@ -216,6 +216,7 @@ objects:
           - SER0569
           - SER0570
           - SER0574
+          - SER0764
           - MCT3691
           - MCT3692
           - MCT3693
@@ -232,7 +233,84 @@ objects:
           - MCT3696F3
           - MCT4164F3
           - MCT4165F3
+          - MCT3311
+          - MCT3849
+          - MCT3850
+          - MCT3991
+          - MCT3991F3
+          - MCT3991MO
+          - MCT3992
+          - MCT3992F3
+          - MCT3992MO
+          - MCT3993
+          - MCT3993F3
+          - MCT3993MO
+          - MCT3994
+          - MCT3994F3
+          - MCT3994MO
+          - MCT3995
+          - MCT3995F3
+          - MCT3995MO
+          - MCT3996
+          - MCT3996F3
+          - MCT3996MO
+          - MCT4019
+          - MCT4134
+          - MCT4166
+          - MCT4166F3
+          - MCT4167
+          - MCT4167F3
+          - MCT4168
+          - MCT4168F3
+          - MCT4212
+          - MCT4212F3
+          - MCT4241
+          - MCT4391
+          - MCT4391F3
+          - MCT4392
+          - MCT4392F3
+          - MCT4522
+          - MCT4523
+          - MCT4592
+          - MCT4592F3
+          - MCT4592F5
+          - MCT4593
+          - MCT4593F3
+          - MCT4593F5
+          - MCT4594
+          - MCT4594F3
+          - MCT4594F5
+          - MCT4595
+          - MCT4595F3
+          - MCT4595F5
+          - MCT4596
+          - MCT4596F3
+          - MCT4597
+          - MCT4597F3
+          - MCT4598
+          - MCT4598F3
+          - MCT4599
+          - MCT4599F3
+          - MCT4608
+          - MCT4623
+          - MCT4623F3
+          - MCT4624
+          - MCT4624F3
+          - MCT4625
+          - MCT4625F3
+          - MCT4626
+          - MCT4626F3
+          - MCT4627
+          - MCT4627F3
+          - MCT4630
+          - MCT4630F3
+          - MCT4631
+          - MCT4631F3
           - MW02049
+          - MW02577
+          - MW02577F3
+          - MW02581
+          - MW02581F3
           - RC1257407
           - ES0113909
 
