@@ -345,6 +345,7 @@ objects:
       - name: acs
         skus:
           - MW02162
+          - MW02162F3
           - MW02159
           - MW02164HR
           - MW02161HR
