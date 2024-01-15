@@ -8,6 +8,8 @@ objects:
         skus:
           - RH00798
           - ESA0016
+          - MCT3311
+          - MCT3311F3
           - MCT3319
           - MCT3319F3
           - MCT3319RN
@@ -87,31 +89,37 @@ objects:
           - MCT3809RN
           - MCT3809F3
           - MCT3809F3RN
+          - MCT3809F5
           - MCT3809S
           - MCT3810
           - MCT3810RN
           - MCT3810F3
           - MCT3810F3RN
+          - MCT3810F5
           - MCT3810S
           - MCT3811
           - MCT3811RN
           - MCT3811F3
           - MCT3811F3RN
+          - MCT3811F5
           - MCT3811S
           - MCT3812
           - MCT3812RN
           - MCT3812F3
           - MCT3812F3RN
+          - MCT3812F5
           - MCT3812S
           - MCT3813
           - MCT3813RN
           - MCT3813F3
           - MCT3813F3RN
+          - MCT3813F5
           - MCT3813S
           - MCT3814
           - MCT3814RN
           - MCT3814F3
           - MCT3814F3RN
+          - MCT3814F5
           - MCT3815S
           - MCT3815
           - MCT3815RN
@@ -198,6 +206,7 @@ objects:
           - MCT3911F3RN
           - MCT3911S
           - MCT3948
+          - MCT3948F3
           - MCT4249
           - SER0496
           - SER0497
@@ -209,7 +218,6 @@ objects:
           - MCT4165
           - MCT4164F3
           - MCT4165F3
-          - MCT3311
           - MCT3849
           - MCT3850
           - MCT3991
@@ -282,6 +290,14 @@ objects:
           - MCT4630F3
           - MCT4631
           - MCT4631F3
+          - MCT4633
+          - MCT4633F3
+          - MCT4634
+          - MCT4634F3
+          - MCT4635
+          - MCT4635F3
+          - MCT4636
+          - MCT4636F3
           - MW02049
           - MW02577
           - MW02577F3
