@@ -364,8 +364,8 @@ objects:
           - MW01896MO
           - MW01893
           - MW01895MO
- 
-      - name: openshift 
+
+      - name: openshift
         skus:
           - MW00454
           - MW00457F3RN
@@ -711,27 +711,57 @@ objects:
           - MCT3478RN
           - MW00419F5
           - MW00788
- 
+
       - name: rhel
         use_valid_org_id: true
 
       - name: acs
         skus:
           - MW02162
+          - MW02162RN
+          - MW02162S
           - MW02162F3
+          - MW02162F3RN
+
           - MW02159
+          - MW02159RN
+          - MW02159S
+          - MW02159F3
+          - MW02159F3RN
+
           - MW02164HR
           - MW02161HR
           - MW02163MO
           - MW02160MO
+
           - MW02165
-          - MW02166
+          - MW02165RN
+          - MW02165S
           - MW02165MO
+          - MW02165F3
+          - MW02165F3RN
+
+          - MW02166
+          - MW02166RN
+          - MW02166S
           - MW02166MO
+          - MW02166F3
+          - MW02166F3RN
+
           - MW02167
+          - MW02167RN
+          - MW02167S
           - MW02167HR
           - MW02167MO
+          - MW02167F3
+          - MW02167F3RN
+
           - MW02291
+          - MW02291RN
+          - MW02291S
+          - MW02291F3
+          - MW02291F3RN
+
           - SER0774
           - SER0795
           - SER0798
