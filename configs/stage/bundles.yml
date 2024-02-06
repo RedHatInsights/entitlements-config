@@ -626,58 +626,58 @@ objects:
 
       - name: acs
         skus:
-          - MW02162
-          - MW02162RN
-          - MW02162S
-          - MW02162F3
-          - MW02162F3RN
           - MW02159
-          - MW02159RN
-          - MW02159S
           - MW02159F3
           - MW02159F3RN
-          - MW02164HR
-          - MW02161HR
-          - MW02163MO
+          - MW02159RN
+          - MW02159S
           - MW02160MO
+          - MW02161HR
+          - MW02162
+          - MW02162F3
+          - MW02162F3RN
+          - MW02162RN
+          - MW02162S
+          - MW02163MO
+          - MW02164HR
           - MW02165
-          - MW02165RN
-          - MW02165S
-          - MW02165MO
           - MW02165F3
           - MW02165F3RN
+          - MW02165MO
+          - MW02165RN
+          - MW02165S
           - MW02166
-          - MW02166RN
-          - MW02166S
-          - MW02166MO
           - MW02166F3
           - MW02166F3RN
+          - MW02166MO
+          - MW02166RN
+          - MW02166S
           - MW02167
-          - MW02167RN
-          - MW02167S
-          - MW02167HR
-          - MW02167MO
           - MW02167F3
           - MW02167F3RN
+          - MW02167HR
+          - MW02167MO
+          - MW02167RN
+          - MW02167S
           - MW02291
-          - MW02291RN
-          - MW02291S
           - MW02291F3
           - MW02291F3RN
+          - MW02291RN
+          - MW02291S
           - MW02404
-          - MW02404RN
-          - MW02404S
-          - MW02404HR
-          - MW02404MO
           - MW02404F3
           - MW02404F3RN
+          - MW02404HR
+          - MW02404MO
+          - MW02404RN
+          - MW02404S
           - MW02405
-          - MW02405RN
-          - MW02405S
-          - MW02405HR
-          - MW02405MO
           - MW02405F3
           - MW02405F3RN
+          - MW02405HR
+          - MW02405MO
+          - MW02405RN
+          - MW02405S
           - SER0774
           - SER0795
           - SER0798
