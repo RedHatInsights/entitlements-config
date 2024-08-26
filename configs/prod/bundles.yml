@@ -94,10 +94,12 @@ objects:
           - MCT3873RN
           - MCT3873F3
           - MCT3874
+          - MCR3875
           - MCT3876
           - MCT3876RN
           - MCT3876F3
           - MCT3876S
+          - MCT3877
           - MCT3878
           - MCT3948
           - MCT3948F3
@@ -198,6 +200,10 @@ objects:
           - MCT4700
           - MCT4700F3
           - MCT4701
+          - MCT4702
+          - MCT4702F3
+          - MCT4703
+          - MCT4703F3
           - MW02049
           - MW02577
           - MW02577F3
