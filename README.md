@@ -42,4 +42,4 @@ Entitlements may be defined by:
 
 When your PR is merged, you will need to update the sha reference of the `entitlements-bundle-config-<env>` deployment in app interface to the latest commit after merge.
 Once that is done, entitlements will bounce in the corresponding environment(s) and the config changes should be reflected.
-Contact the Access & Management team (@crc-accessmanagement-team) for any assistance.
+Contact the Access & Management team (@crc-entitlements-team) for any assistance.
