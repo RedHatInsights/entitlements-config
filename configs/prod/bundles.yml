@@ -201,8 +201,28 @@ objects:
           - MCT4701
           - MCT4702
           - MCT4702F3
+          - MCT4702F5
           - MCT4703
           - MCT4703F3
+          - MCT4703F5
+          - MCT4714
+          - MCT4714F3
+          - MCT4714F5
+          - MCT4715
+          - MCT4715F3
+          - MCT4715F5
+          - MCT4754
+          - MCT4754F3
+          - MCT4754F5
+          - MCT4755
+          - MCT4755F3
+          - MCT4755F5
+          - MCT4756
+          - MCT4756F3
+          - MCT4756F5
+          - MCT4757
+          - MCT4757F3
+          - MCT4757F5
           - MW02049
           - MW02577
           - MW02577F3
