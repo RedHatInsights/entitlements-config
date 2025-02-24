@@ -258,6 +258,8 @@ objects:
           - RH00066
           - RH00065
           - RH00798
+          - RH00067
+          - RH00068
 
       - name: internal
         use_is_internal: true
