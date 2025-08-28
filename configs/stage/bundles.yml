@@ -272,6 +272,40 @@ objects:
           - MCT4217MO
           - MCT4163
 
+      - name: rhoam
+        skus:
+          - MW01459
+          - MW01460
+          - MW01461
+          - MW01462
+          - MW01737
+          - MW01458
+          - MW01458MO
+          - MW01459
+          - MW01459MO
+          - MW01460
+          - MW01460MO
+          - MW01461
+          - MW01461MO
+          - MW01462
+          - MW01462MO
+          - MW01737
+          - MW01738MO
+          - MW01845MO
+          - MW01846
+
+      - name: rhosak
+        skus:
+          - MW01882
+          - MW01891
+          - MW01892MO
+          - MW01891
+          - MW01892MO
+          - MW01894
+          - MW01896MO
+          - MW01893
+          - MW01895MO
+
       - name: openshift
         skus:
           - MW00454
