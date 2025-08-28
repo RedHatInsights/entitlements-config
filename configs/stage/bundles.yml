@@ -249,6 +249,21 @@ objects:
       - name: user_preferences
         use_valid_org_id: true
 
+      - name: smart_management
+        skus:
+          - SVC3124
+          - RH00066
+          - RH00065
+          - RH00798
+          - RH00031
+          - RH00031F3
+          - RH00032
+          - RH00032F3
+          - RH00039
+          - RH00039F3
+          - RH00040
+          - RH00040F3
+
       - name: internal
         use_is_internal: true
 
