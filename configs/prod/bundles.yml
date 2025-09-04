@@ -252,15 +252,6 @@ objects:
       - name: openshift
         use_valid_org_id: false
 
-      - name: smart_management
-        skus:
-          - SVC3124
-          - RH00066
-          - RH00065
-          - RH00798
-          - RH00067
-          - RH00068
-
       - name: internal
         use_is_internal: true
 
@@ -270,20 +261,6 @@ objects:
       - name: rhods
         skus:
           - MCT4217MO
-
-      - name: rhoam
-        skus:
-          - MW01459
-          - MW01460
-          - MW01461
-          - MW01462
-          - MW01737
-
-      - name: rhosak
-        skus: 
-          - MW01882
-          - MW01891
-          - MW01892MO
 
       - name: acs
         skus:
