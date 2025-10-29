@@ -8,6 +8,7 @@ objects:
         skus:
           - RH00798
           - ESA0016
+          - ESA0250
           - MCT3311
           - MCT3311F3
           - MCT3319
@@ -223,6 +224,19 @@ objects:
           - MCT4757
           - MCT4757F3
           - MCT4757F5
+          - MCT4803
+          - MCT4804
+          - MCT4805
+          - MCT4813F3
+          - MCT4813F5
+          - MCT4814
+          - MCT4814F3
+          - MCT4814F5
+          - MCT4816F3
+          - MCT4816F5
+          - MCT4817
+          - MCT4817F3
+          - MCT4817F5
           - MW02049
           - MW02577
           - MW02577F3
