@@ -20,6 +20,10 @@ objects:
           - MCT4817
           - MCT4817F3
           - MCT4817F5
+          - RH00798
+          - SER0570
+          - SER0569
+          - SER0764
         paid_skus:
           - MCT4703
           - MW02577F3
@@ -75,7 +79,6 @@ objects:
           - MCT4019
           - MCT3850
           - MCT3995MO
-          - RH00798
           - MCT4391F3
           - MW02049
           - MCT3876RN
@@ -145,7 +148,6 @@ objects:
           - MCT3809F3
           - MCT4599F3
           - MCT3691RN
-          - SER0570
           - MCT3873F3
           - MCT3876S
           - MCT4165F3
@@ -155,7 +157,6 @@ objects:
           - MCT3812F3
           - MCT3319S
           - MCT3320F3
-          - SER0569
           - MCT3994F3
           - MCT4757F5
           - MCT4757F3
@@ -218,7 +219,6 @@ objects:
           - MCT3810F5
           - MCT4241
           - MCT3996MO
-          - SER0764
           - MCT3992F3
           - MCT4167F3
           - MCT3694F3RN
@@ -675,6 +675,9 @@ objects:
         use_valid_org_id: true
 
       - name: acs
+        eval_skus:
+          - SER0798
+          - SER0795
         paid_skus:
           - MW02163MO
           - MW02159RN
@@ -695,10 +698,8 @@ objects:
           - MW02162RN
           - SER0774
           - MW02404HR
-          - SER0798
           - MW02405HR
           - MW02405S
-          - SER0795
           - MW02404MO
           - MW02405MO
           - MW02165RN
