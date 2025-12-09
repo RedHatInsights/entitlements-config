@@ -18,25 +18,56 @@ service/feature/offering.
 
 Entitlements may be defined by:
 
-1. requiring one or more SKUs exist on the account making the request (and whether the SKU is a trial SKU or not).
-```yaml
-- name: name_of_entitlement
-  skus:
-    MCT3691:
-      is_trial: true|false
-```
+1. Requiring one or more SKUs exist on the account making the request. This can be done in 1 of 2 ways: 
 
-2. requiring the account number exists on the request
+    i. define a list of `skus` (this method does not support trial versions of features)
 ```yaml
-- name: name_of_entitlement
+- name: example_entitlement
+  skus:
+    - MCT3691
+``` 
+&nbsp;
+    ii. define 2 lists of skus, one for eval/trial skus and one for paid skus
+
+```yaml
+- name: example_entitlement
+  eval_skus:
+    - MCT3691
+  paid_skus:
+    - RH00031
+```
+More details on how this option works below. 
+
+2. Requiring the account number exists on the request
+```yaml
+- name: example_entitlement
   use_valid_acc_num: true
 ```
 
-3. allowing entitlement for all by default
+3. Allowing entitlement for all by default
 ```yaml
-- name: name_of_entitlement
+- name: example_entitlement
   use_valid_acc_num: false
 ```
+
+### Eval & Paid Skus
+If you define your feature with `eval_skus` and `paid_skus`, this will enable `is_trial` in the entitlements service. This flag denotes if the feature is designated as a trial on the accout or not. 
+
+Example: given the config
+```yaml
+- name: my-bundle
+  eval_skus: 
+    - RH0001
+  paid_skus:
+    - RH0002
+```
+we can see following values of `is_trial` when querying `GET /services` in the entitlements service:
+| Account subscriptions | `is_entitled` | `is_trial` |
+|-------|-------|-------|
+| RH0001, RH0002 | true  | true  |
+| RH0001         | true  | true  |
+| RH0002         | true  | false |
+| (empty)        | false | false |
 
 ### Deployment
 
