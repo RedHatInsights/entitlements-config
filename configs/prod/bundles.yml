@@ -5,8 +5,12 @@ objects:
   data:
     bundles.yml: |
       - name: ansible
-        skus:
+        eval_skus:
           - RH00798
+          - SER0570
+          - SER0569 
+          - SER0764
+        paid_skus:
           - ESA0016
           - ESA0250
           - MCT3311
@@ -106,9 +110,6 @@ objects:
           - MCT4249
           - SER0496
           - SER0497
-          - SER0569
-          - SER0570
-          - SER0764
           - MCT4164
           - MCT4165
           - MCT4164F3
@@ -244,47 +245,48 @@ objects:
           - MW02581F3
           - RC1257407
           - ES0113909
-
+      
       - name: cost_management
         use_valid_org_id: true
-
+      
       - name: insights
         use_valid_org_id: true
-
+      
       - name: migrations
         use_valid_org_id: true
-
+      
       - name: subscriptions
         use_valid_org_id: true
-
+      
       - name: settings
         use_valid_org_id: true
-
+      
       - name: user_preferences
         use_valid_org_id: true
-
+      
       - name: openshift
         use_valid_org_id: false
 
       - name: smart_management
-        skus:
-          - SVC3124
+        eval_skus:
           - RH00066
           - RH00065
           - RH00798
           - RH00067
           - RH00068
+        paid_skus:
+          - SVC3124
       
       - name: internal
         use_is_internal: true
-
+      
       - name: rhel
         use_valid_org_id: true
-
+      
       - name: rhods
         skus:
           - MCT4217MO
-
+      
       - name: rhoam
         skus:
           - MW01459
@@ -294,13 +296,16 @@ objects:
           - MW01737
       
       - name: rhosak
-        skus: 
+        skus:
           - MW01882
           - MW01891
           - MW01892MO
       
       - name: acs
-        skus:
+        eval_skus:
+          - SER0798
+          - SER0795
+        paid_skus:
           - MW02159
           - MW02159F3
           - MW02159RN
@@ -346,8 +351,6 @@ objects:
           - MW02405RN
           - MW02405S
           - SER0774
-          - SER0795
-          - SER0798
   kind: ConfigMap
   metadata:
     creationTimestamp: null
