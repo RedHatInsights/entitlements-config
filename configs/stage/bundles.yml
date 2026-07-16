@@ -259,6 +259,17 @@ objects:
           - MCT5196
           - SER0496
           - SER0497
+          - MCT5195
+          - MCT4911
+          - MCT5241
+          - MCT5242
+          - MW06489
+          - MCT5171
+          - MCT5172
+          - MCT5173
+          - MCT5179
+          - MCT5180
+          - MCT5215
       
       - name: cost_management
         use_valid_org_id: true
