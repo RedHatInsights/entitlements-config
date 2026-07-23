@@ -1,5 +1,14 @@
 # SKU bundles and config for entitlements
 
+## **IMPORTANT**
+Sku based features are now going to be entirely managed by the feature service team. Any update to sku based features here will no longer be reflected in the entitlements service. 
+For any required updates to sku based features, please reach out to `it-subprod-request@redhat.com` to make the updates. Feel free to ping [#forum-mgmt-fabric-accessmanagement](https://redhat.enterprise.slack.com/archives/C0233N2MBU6) for help if needed.
+
+We will eventually be ripping out sku based features from this repo, as part of this ticket: [RHCLOUD-49553](https://redhat.atlassian.net/browse/RHCLOUD-49553)
+For now, they still exist while we make this transition.
+
+Non sku based features will still be managed thru this repo once sku based features are removed. Details are subject to change while this effort is ongoing. The rest of the README is going to be left alone for now, but will be accurately updated as part of the ticket linked above. 
+
 ## About
 
 This is a repository for housing decoupled cloud entitlements service bundles
